@@ -17,11 +17,11 @@ Photo frame using Pimoroni's Inky Impression 7.3 e-ink display.
    ```
 
 ## Files
-### `Code`
+### Code
 * Directory for custom code to operate display.
-### `Photos`
+### Photos
 * Photo albums I made for display.
-### `Resources`
+### Resources
 * Resources from Pimoroni and Thingiverse.
   * `Inky Impression 7.3`: Directory for Inky Impression display resources.
       * `inky-main`: Pimoroni libraires, tools, and example code.
@@ -38,9 +38,7 @@ Photo frame using Pimoroni's Inky Impression 7.3 e-ink display.
   * 32gb Micro SD Card (Headless Pi OS)
 
 ### Code 💻
-
 * `image_loop.py`: Program to loop through a collection of photos.
-
 
 * `image.static.py`: Program to display a static photo.
 
