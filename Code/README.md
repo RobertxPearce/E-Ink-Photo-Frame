@@ -1,6 +1,6 @@
 # Code 💻
 
-## `loop_photos.py`
+## `loop_photos.py
 * Program to loop through a collection of photos.
   * Use command:
   ```bash
