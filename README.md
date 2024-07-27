@@ -5,10 +5,16 @@ Photo frame using Pimoroni's Inky Impression 7.3 e-ink display.
 1. **SSH into Pi**
     * Username and password on back of frame.
 2. **Move to Directory**
-    * Use command `cd /Desktop/E-Ink-Photo-Frame/Code`
-3. **Run the Program**
-    * Use command `python loop_photos.py <album name>`
-    * Use command `python static_photo.py <photo location>`
+   ```bash
+   cd /Desktop/E-Ink-Photo-Frame/Code
+   ```
+4. **Run the Program**
+   ```bash
+   python3 image_static.py
+   ```
+   ```bash
+   python3 image_loop.py
+   ```
 
 ## Files
 ### `Code`
@@ -33,10 +39,10 @@ Photo frame using Pimoroni's Inky Impression 7.3 e-ink display.
 
 ### Code 💻
 
-* `loop_photos.py`: Program to loop through a collection of photos.
+* `image_loop.py`: Program to loop through a collection of photos.
 
 
-* `static_photo.py`: Program to display a static photo.
+* `image.static.py`: Program to display a static photo.
 
 
 ### Frame Assembly 🖼️
