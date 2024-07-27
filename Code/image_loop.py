@@ -27,5 +27,5 @@ while True:
         inky_display.set_image(image)
         inky_display.show()
         # Display refresh rate 40 seconds.
-        # Pause on image for 5 second.
-        time.sleep(5)
+        # Pause on image for 1 hour.
+        time.sleep(3600)
