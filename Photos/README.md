@@ -1,13 +1,16 @@
 # Photos 📷
+* Photos I found online that would look great on the E-Ink.
 
 ## Photo Requirements
 
 ## Albums
-* `Anime`
+* **Anime**
   * Anime photos that I like.
-* `Covers`
+* **Covers**
   * Covers from my favorite manga.
-* `ShonenJump`
+* **ShonenJump**
   * Cool Shonen Jump covers.
-* `Ghibli`
+* **Ghibli**
   * *Aesthetic* Ghibli art.
+* **Space**
+  * Cool space photos.
