@@ -11,10 +11,21 @@ Photo frame using Pimoroni's Inky Impression 7.3 e-ink display.
    ```bash
    python3 image_static.py
    ```
-   or
    ```bash
    python3 image_loop.py
    ```
+5. **Run Loop in Background**
+   ```bash
+   nohup python3 image_loop.py &
+   ```
+6. **Kill Program**
+  * Find Programs PID
+    ```bash
+    ps aus | grep image_loop.py
+    ```
+    ```bash
+    kill <PID>
+    ```
 
 ## Files
 ### Code
