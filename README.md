@@ -19,7 +19,6 @@ Photo frame using Pimoroni's Inky Impression 7.3 e-ink display.
    nohup python3 image_loop.py &
    ```
 6. **Kill Program**
-  * Find Programs PID
     ```bash
     ps aus | grep image_loop.py
     ```
